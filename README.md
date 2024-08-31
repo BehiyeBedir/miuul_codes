@@ -4,7 +4,7 @@ Bu repository, MIUUL adlı kurstan alınan çeşitli Python kodlarını içermek
 
 ## Proje Açıklaması
 
-Bu proje, MIUUL kursunda öğrenilen konuları uygulayan kodları içerir. Kodlar Python ve SQL kullanılarak yazılmıştır.
+Bu proje, MIUUL kursunda öğrenilen konuları uygulayan kodları içerir. Kodlar Python kullanılarak yazılmıştır.
 
 ## Kullanım
 
