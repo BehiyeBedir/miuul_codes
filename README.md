@@ -1,6 +1,6 @@
 # MIUUL Kodları
 
-Bu repository, MIUUL adlı kurstan alınan çeşitli Python ve SQL kodlarını içermektedir.
+Bu repository, MIUUL adlı kurstan alınan çeşitli Python kodlarını içermektedir.
 
 ## Proje Açıklaması
 
